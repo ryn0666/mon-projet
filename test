@@ -1,3 +1,0 @@
-mkdir mon-projet && cd mon-projet
-echo "Hello MMI 215!" > readme.md
-git init
